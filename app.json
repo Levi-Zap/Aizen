@@ -1,6 +1,6 @@
 {
   "name": "Aizen",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Levi-Zap ",
+  "description": "Javasricpt whatsapp bot created by Levi-Zap ",
   "logo": "your image url",
   "keywords": ["bot"],
   "success_url": "/",
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦『 AIZEN 』✦"
+      "value": "Aɪᴢᴇɴ"
     }, 
 
     "HEART_REACT": {
