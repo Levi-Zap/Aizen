@@ -1,12 +1,12 @@
 {
-  "name": "Aizen",
+  "name": "Aizen-md",
   "version": "3.0.0",
   "description": "A WhatsApp Bot Created By Levi-Zap",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Aizen",
-    "stop": "pm2 stop Aizen",
-    "restart": "pm2 restart Aizen"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Aizen-md",
+    "stop": "pm2 stop Aizen-md",
+    "restart": "pm2 restart Aizen-md"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
