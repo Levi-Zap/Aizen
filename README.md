@@ -1,14 +1,14 @@
-# AIZEN-MD WHATSAPP BOT
+# AIZEN WHATSAPP BOT
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐋𝐞𝐯𝐢-𝐙𝐚𝐩 🌝💚
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://files.catbox.moe/8z1jya.jpg.jpg"  width="300" height="200">
+<img src = "https://files.catbox.moe/h4mta1.jpg"  width="300" height="200">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=AIZEN-MD+MD+WHATSAPP+BOT+MD" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Aizen+MD+WHATSAPP+BOT+MD" alt="">
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
 
@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/Levi-Zap/Aizen/fork"><img title="AIZEN-MD" src="https://img.shields.io/badge/FORK-AIZEN-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Levi-Zap/Aizen/fork"><img title="Aizen" src="https://img.shields.io/badge/FORK-Aizenh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -39,12 +39,12 @@
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLevi-Zap%2FAIZEN-MD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLevi-Zap%2FAizen) 
    
    
   2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Levi-Zap/AIZEN-MD.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Levi-Zap/Aizen.git)
 
 
    3..DEPLOY ON GITHUB ⤵️
@@ -60,7 +60,7 @@
 <h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
 ```
-name: Node.js CI
+### name: Node.js CI
 
 on:
   push:
@@ -98,12 +98,12 @@ jobs:
 
 ### Thank You Dear
 
-> DEVELOPER OF AIZEN-MD 
+> DEVELOPER OF AIZEN 
 - [Levi](https://github.com/Levi-Zap)
-- Creater and Owner Of AIZEN-MD
+- Creater and Owner Of AIZEN
 
-> AIZEN-MD Helper
-- [Levi](https://github.com/Levi-Zap)
+> AIZEN Helper
+- [Support](https://github.com/Levi-Zap)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
