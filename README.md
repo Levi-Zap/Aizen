@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/Levi-Zap/Aizen/fork"><img title="Aizen" src="https://img.shields.io/badge/FORK-Aizenh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Levi-Zap/Aizen/fork"><img title="Aizen" src="https://img.shields.io/badge/FORK-AIZENh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -60,7 +60,7 @@
 <h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
 ```
-### name: Node.js CI
+name: Node.js CI
 
 on:
   push:
