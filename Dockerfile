@@ -1,6 +1,6 @@
 FROM node:lts-buster
-RUN git clone https://github.com/Levi-Zap/Aizen/root/ikmalvin
-WORKDIR /root/ikmalvin
+RUN git clone https://github.com/Levi-Zap/Aizen/root/levi
+WORKDIR /root/levi
 RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
 COPY . .
 EXPOSE 9090
